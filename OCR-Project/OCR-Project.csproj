@@ -13,4 +13,8 @@
     <PackageReference Include="Azure.AI.FormRecognizer" Version="4.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Readme\" />
+  </ItemGroup>
+
 </Project>
